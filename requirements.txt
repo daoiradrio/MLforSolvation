@@ -1,0 +1,10 @@
+-e . 
+torch==2.8.0
+torch-scatter -f https://data.pyg.org/whl/torch-2.8.0+cpu.html
+torch-cluster -f https://data.pyg.org/whl/torch-2.8.0+cpu.html
+torch_geometric
+pandas
+matplotlib
+tqdm
+ase
+aimnet
