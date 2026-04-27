@@ -1,0 +1,1 @@
+Repository to the paper "Can machine learning predict solvation effects on energies and geometries of highly charged molecules?". We demonstrate how simple GNN models suffice to learn Gibbs solvation energies that, in combination with AIMNet2 vacuum energies, enable geometry optimizations in solution even without training on force labels.
