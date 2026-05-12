@@ -16,6 +16,3 @@ class ElementEmbedding(torch.nn.Module):
 
     def forward(self, x):
         return self.projection(self.embedding(x))
-        #x = self.embedding(x)
-        #x = self.projection(x)
-        #return x
